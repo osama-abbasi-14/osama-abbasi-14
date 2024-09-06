@@ -1,5 +1,8 @@
 ## Hi there 👋
+My name is Osama Abbasi, I am a 3rd YEAR MBBS Student at Azad Kashmir Medical College, pursing my dream :D 
+Coding is my hobby, part-time gamer, fav game Tekken 8.
 
+- 🔭 I’m currently working on a website for MBBS Lectures, made by me and very talented other students of my class.
 <!--
 **osama-abbasi-14/osama-abbasi-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
